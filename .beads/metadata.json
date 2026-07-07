@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "chat_crew_example",
+  "project_id": "cc6ff27c-1aa9-4291-befa-16ecc33dc182"
+}
